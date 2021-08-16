@@ -1,5 +1,5 @@
 # LECTURE SERIES IN DEEP LEARNING
->> 我在B站的一些视频资料汇总 
+我在B站的一些视频资料汇总. Github随时更新.
 
 ## 论文解读系列
 ### 视觉(CV)
@@ -34,3 +34,7 @@
 ## CS231N系列
 - 合集地址 [电脑版点击这里](https://space.bilibili.com/354943571/channel/detail?cid=192055&ctype=0) 手机版请进入[合集页](https://space.bilibili.com/354943571?spm_id_from=333.788.b_765f7570696e666f.2)收看
 - PPT 请从[官方下载](http://cs231n.stanford.edu/schedule.html)
+
+## 更多信息, 请点击图片前往B站主页
+[![logo](./bilibili.png)](https://space.bilibili.com/354943571?seid=2481489572956388889)
+
