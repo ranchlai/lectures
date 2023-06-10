@@ -9,7 +9,7 @@
 - 中文解读CVPR 2021最佳论文 GIRAFFE: 组合生成式神经特征场用于场景表示 [B站视频](https://www.bilibili.com/video/BV1hy4y1T7eY)
 -  Vision Transformer(ViT): An Image is Worth 16x16 Words [B站视频](https://www.bilibili.com/video/BV1HU4y137JH)
 ### 语音
-- [语音] Conformer asr 谷歌语音识别论文解读 Interspeech 2020 [B站视频](https://www.bilibili.com/video/BV1yb4y1679X) 
+- [语音] Conformer asr 谷歌语音识别论文解读 Interspeech 2020 [B站视频](https://www.bilibili.com/video/BV1yb4y1679X)
 - 语音自监督学习之wav2vec系统论文解读（中文）CPC, wav2vec, vq-wav2vec, wav2vec2.0 [B站视频](https://www.bilibili.com/video/BV16M4y1M7FR)
 ### NLP
 - self-attention自注意力机制图解和Numpy简单演示 [code](TBD) | [B站视频](https://www.bilibili.com/video/BV1Kv411J7rj)
@@ -25,7 +25,7 @@
 
 ### 自监督学习系列
 - 孪生网络与对称性-视觉中的自监督学习| [PPT](./doc/self_superivse_in_vision.pdf)|[B站视频](https://www.bilibili.com/video/BV1jq4y1H73A/)
-- 自监督学习：智能时代的暗物质 Self-supervised learning: The dark matter of intelligence文章解读 [B站视频](https://www.bilibili.com/video/BV1fy4y1K7EW) 
+- 自监督学习：智能时代的暗物质 Self-supervised learning: The dark matter of intelligence文章解读 [B站视频](https://www.bilibili.com/video/BV1fy4y1K7EW)
 - OpenAI CLIP文本图像自监督学习解读 Learning Transferable Visual Models From Natural Language [B站视频](https://www.bilibili.com/video/BV1Vf4y1b724)
 ## 动手学AI系列
 - 【动手学AI系列 1】Bert模型文本自注意力的可视化 [code](./code/rnn/rnn_demo.ipynb)|[B站视频](https://www.bilibili.com/video/BV1nA411P7R8/)
@@ -37,4 +37,3 @@
 
 ## 更多信息, 请点击图片前往B站主页
 [![logo](./bilibili.png)](https://space.bilibili.com/354943571?seid=2481489572956388889)
-
