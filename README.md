@@ -1,5 +1,9 @@
 # LECTURE SERIES IN DEEP LEARNING
-我在B站的一些视频资料汇总. Github随时更新.
+我在B站的一些视频资料汇总. Github随时更新, 请点击收藏.
+
+## NEWS
+- 2023-06-10 新增LoRA论文和代码讲解 [B站视频1](https://www.bilibili.com/video/BV1nk4y1p742/), [B站视频2](https://www.bilibili.com/video/BV1CX4y1t7qX), [B站视频3]()
+代码已更新到[github](./code/lora/)
 
 ## 论文解读系列
 ### 视觉(CV)
