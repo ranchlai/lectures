@@ -1,0 +1,29 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0  # Use the ref you want to point at
+    hooks:
+      - id: trailing-whitespace
+      - id: check-added-large-files
+      - id: check-docstring-first
+      - id: end-of-file-fixer
+      - id: fix-encoding-pragma
+
+
+  - repo: https://github.com/pycqa/isort
+    rev: 5.12.0
+    hooks:
+      - id: isort
+        args: ["--profile", "black", "-l", "88", "--filter-files"]
+
+  - repo: https://github.com/ambv/black
+    rev: 22.10.0
+    hooks:
+      - id: black
+        args: [--line-length=88]
+
+  - repo: https://github.com/PyCQA/flake8
+    rev: 3.7.9
+    hooks:
+      - id: flake8
+        types: [python]
+        args: [--max-line-length=88, --extend-ignore=E203]
